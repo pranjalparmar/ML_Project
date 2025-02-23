@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: ml_project
+Version: 0.0.1
+Author: Pranjal
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
